@@ -321,27 +321,27 @@
     "message": "文字轉語音速度"
   },
   "lblEnableDeepL": {
-    "message": "Enable DeepL as a text translation service"
+    "message": "容許 DeepL 作為翻譯服務"
   },
   "enterShortcut": {
-    "message": "Enter a shortcut"
+    "message": "請輸入快按鍵"
   },
   "hotkeyError_ctrlOrAlt": {
-    "message": "Include Ctrl or Alt"
+    "message": "包括 Ctrl 或 Alt"
   },
   "hotkeyError_letter": {
-    "message": "Type a letter"
+    "message": "按任何字母"
   },
   "hotkeyError_invalid": {
-    "message": "Invalid combination"
+    "message": "不正確組合"
   },
   "lblSwitchTranslatedAndOriginal": {
-    "message": "Switch between the translated and the original page"
+    "message": "在翻譯與原文中切換"
   },
   "lblRestorePageToOriginal": {
-    "message": "Restore page to original"
+    "message": "恢復至原文"
   },
   "lblTranslatePageToTargetLanguage": {
-    "message": "Translate the page to the target language"
+    "message": "翻譯頁面至目標語言"
   }
 }
